@@ -107,4 +107,4 @@ Além disso, a acurácia no conjunto de teste ficou acima do objetivo mínimo de
 - Separação entre conjuntos de treinamento, validação e teste.
 - Avaliação de métricas de desempenho.
 - Comparação com modelo de referência (*baseline*).
-- Interpretação e comunicação de resultados analíticos.  kkkkkk
+- Interpretação e comunicação de resultados analíticos.  
